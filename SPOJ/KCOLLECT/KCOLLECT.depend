@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543324949 source:e:\spoj\kcollect\kcollect.cpp
+	<bits/stdc++.h>
+	<bitset>
+

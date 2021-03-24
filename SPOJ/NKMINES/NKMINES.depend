@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541945938 source:e:\spoj\nkmines\nkmines.cpp
+	<bits/stdc++.h>
+	<bitset>
+

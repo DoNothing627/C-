@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543326814 source:e:\spoj\mink\mink.cpp
+	<bits/stdc++.h>
+	<bitset>
+

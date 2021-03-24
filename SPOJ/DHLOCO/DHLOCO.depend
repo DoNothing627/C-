@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541855731 source:e:\spoj\dhloco\dhloco.cpp
+	<bits/stdc++.h>
+	<bitset>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546862844 source:e:\spoj\nkflow\nkflow.cpp
+	<bits/stdc++.h>
+	<bitset>
+

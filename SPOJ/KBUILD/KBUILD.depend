@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547040208 source:e:\spoj\kbuild\kbuild.cpp
+	<bits/stdc++.h>
+	<bitset>
+

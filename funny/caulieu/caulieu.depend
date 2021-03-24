@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612880696 source:e:\an\code\c++\funny\caulieu\main.c
+	<stdio.h>
+	<stdlib.h>
+

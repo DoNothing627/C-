@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542988244 source:e:\spoj\nkbulid\nkbuild.cpp
+	<bits/stdc++.h>
+	<bitset>
+	<iostream>
+	<climits>
+	<queue>
+

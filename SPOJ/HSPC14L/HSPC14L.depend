@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543585841 source:e:\spoj\hspc14l\hspc14l.cpp
+	<bits/stdc++.h>
+	<bitset>
+

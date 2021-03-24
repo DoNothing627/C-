@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542117006 source:e:\spoj\haoi5000\haoi5000.cpp
+	<bits/stdc++.h>
+	<bitset>
+

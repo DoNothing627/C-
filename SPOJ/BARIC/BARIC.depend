@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544459249 source:e:\spoj\baric\baric.cpp
+	<bits/stdc++.h>
+	<bitset>
+

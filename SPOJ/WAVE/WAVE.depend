@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544617536 source:e:\spoj\wave\wave.cpp
+	<bits/stdc++.h>
+	<bitset>
+

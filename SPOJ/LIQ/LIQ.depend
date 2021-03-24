@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549468287 source:e:\spoj\liq\liq.cpp
+	<bits/stdc++.h>
+	<bitset>
+

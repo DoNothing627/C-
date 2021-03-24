@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585281482 source:e:\an\code\c++\an\bcap\bcap.cpp
+	<bits/stdc++.h>
+	<bitset>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613063504 source:e:\an\code\c++\an\newbuff\newbuff.cpp
+	<bits/stdc++.h>
+	<bitset>
+

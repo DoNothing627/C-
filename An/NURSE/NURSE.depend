@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586958666 source:e:\an\code\c++\an\nurse\nurse.cpp
+	<bits/stdc++.h>
+	<bitset>
+

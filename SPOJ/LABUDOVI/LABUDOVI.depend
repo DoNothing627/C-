@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585062004 source:e:\an\code\c++\spoj\labudovi\labudovi.cpp
+	<bits/stdc++.h>
+	<bitset>
+

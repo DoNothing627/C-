@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587823414 source:e:\an\code\c++\an\brcount\brcount.cpp
+	<bits/stdc++.h>
+	<bitset>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584977229 source:e:\an\code\c++\spoj\kplank\kplank.cpp
+	<bits/stdc++.h>
+	<bitset>
+

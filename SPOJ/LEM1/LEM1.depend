@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542114598 source:e:\spoj\lem1\lem1.cpp
+	<bits/stdc++.h>
+	<bitset>
+	<cstdio>
+	<cmath>
+

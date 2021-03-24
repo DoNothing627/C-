@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546446730 source:e:\spoj\vodivide\vodivide.cpp
+	<bits/stdc++.h>
+	<bitset>
+

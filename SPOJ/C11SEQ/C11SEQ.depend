@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544712641 source:e:\spoj\c11seq\c11seq.cpp
+	<bits/stdc++.h>
+	<bitset>
+

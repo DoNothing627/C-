@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547174304 source:e:\spoj\tjalg\tjalg.cpp
+	<bits/stdc++.h>
+	<bitset>
+
